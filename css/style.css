@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+
+}
+
+/*      form        */
+#aliningform{
+    display: flex;
+    justify-content: center;
+}
+
+#phpform{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+#data{
+    margin-top: 100px;
+}
+
+#record{
+    display: flex;
+}
+
+.recordpart{
+    width: 120px;
+    margin-left: 40px;
+}
